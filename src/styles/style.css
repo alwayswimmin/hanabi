@@ -47,10 +47,6 @@ body ::-webkit-scrollbar {
   display: none;
 }
 
-.font-regular {
-  font-family: "Inconsolata";
-}
-
 button {
   background-color: white;
 }
